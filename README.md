@@ -1,2 +1,2 @@
 # infovis
-## capitulo 1
+## Capítulo 1
